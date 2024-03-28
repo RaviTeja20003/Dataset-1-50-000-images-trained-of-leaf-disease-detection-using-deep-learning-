@@ -1,0 +1,1 @@
+# Dataset-1-50-000-images-trained-of-leaf-disease-detection-using-deep-learning-
